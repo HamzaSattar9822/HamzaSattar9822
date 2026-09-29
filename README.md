@@ -1,45 +1,61 @@
 # Hi, I am Hamza Sattar
 
-Lead AI engineer focused on chatbots, voice systems, and practical NLP. CS graduate from GIKI, based in Lahore.
+Lead AI engineer focused on **chatbots**, **voice AI**, and **practical NLP**.  
+CS graduate from **GIKI**, based in **Lahore, Pakistan**.
 
-I like shipping prototypes that feel real: bilingual assistants, secure content delivery, tutoring ops tools, and research on crowded-scene pose estimation.
+I build prototypes that feel production-ready: bilingual assistants for fintech and retail, secure content delivery, tutoring ops tools, and research on pose estimation in crowded scenes.
 
-## Find me
+## Snapshot
 
-- Portfolio: https://portfolio-snowy-nine-50.vercel.app
-- LinkedIn: https://www.linkedin.com/in/hamza-sattar-9403b6267
-- Email: hamzasattar9822@gmail.com
-- GitHub: https://github.com/HamzaSattar9822
+| | |
+|---|---|
+| Role | Lead AI Engineer |
+| Focus | Agentic assistants, speech pipelines, clean APIs |
+| Education | BS Computer Science, GIKI |
+| Location | Lahore, Pakistan |
+| Portfolio | [portfolio-snowy-nine-50.vercel.app](https://portfolio-snowy-nine-50.vercel.app) |
+| LinkedIn | [hamza-sattar-9403b6267](https://www.linkedin.com/in/hamza-sattar-9403b6267) |
+| Email | [hamzasattar9822@gmail.com](mailto:hamzasattar9822@gmail.com) |
 
-## Selected projects
+## Featured work
 
-| Project | What it is |
-|---------|------------|
-| [JazzCash](https://github.com/HamzaSattar9822/JazzCash) | Bilingual JazzCash-style AI assistant (LLM + RAG + voice) |
-| [Jazz-Point](https://github.com/HamzaSattar9822/Jazz-Point) | Retailer Jazz Dost MVP (recharge, bundles, postpaid) |
-| [Content-Delivery-System](https://github.com/HamzaSattar9822/Content-Delivery-System) | Secure Drive-backed content links, analytics, RBAC |
-| [Polygon-Pedagogs](https://github.com/HamzaSattar9822/Polygon-Pedagogs) | Tutoring site with admin inbox and attendance |
-| [OAPR](https://github.com/HamzaSattar9822/OAPR-Occlusion-Aware-Probabilistic-Reconstruction) | Occlusion-aware probabilistic pose reconstruction |
-| [Taste-and-Tales](https://github.com/HamzaSattar9822/Taste-and-Tales) | Static food brand dashboard |
+### Product / demos
+| Repo | One-liner | Live |
+|------|-----------|------|
+| [JazzCash](https://github.com/HamzaSattar9822/JazzCash) | Bilingual JazzCash-style AI assistant (LLM + RAG + voice) | [Render](https://jazzcash-ai-assistant.onrender.com) |
+| [Jazz-Point](https://github.com/HamzaSattar9822/Jazz-Point) | Retailer Jazz Dost MVP (recharge, bundles, postpaid) | local MVP |
+| [Content-Delivery-System](https://github.com/HamzaSattar9822/Content-Delivery-System) | Secure Drive-backed delivery links, analytics, RBAC | [Vercel](https://content-delivery-system-frontend.vercel.app) |
+| [Polygon-Pedagogs](https://github.com/HamzaSattar9822/Polygon-Pedagogs) | Tutoring site with admin inbox and attendance | [Render](https://polygon-pedagogs.onrender.com) |
+| [Taste-and-Tales](https://github.com/HamzaSattar9822/Taste-and-Tales) | Static food brand dashboard | [Vercel](https://taste-and-tales-swart.vercel.app) |
+
+### Research / learning
+| Repo | One-liner |
+|------|-----------|
+| [OAPR (full)](https://github.com/HamzaSattar9822/OAPR-Occlusion-Aware-Probabilistic-Reconstruction) | Occlusion-aware probabilistic multi-person pose reconstruction |
 | [FundRaiser](https://github.com/HamzaSattar9822/FundRaiser) | Crowdfunding DApp (Solidity + React) |
+| [LAB_Project](https://github.com/HamzaSattar9822/LAB_Project) | Arithmetic expression tokenizer / validator lab |
 | [portfolio](https://github.com/HamzaSattar9822/portfolio) | Personal site |
 
-## How I usually build
+## How I usually ship
 
 ```mermaid
 flowchart LR
-  Idea["Problem / demo brief"]
-  Proto["Working prototype UI + API"]
-  AI["LLM / speech / ML where it helps"]
-  Ship["Deploy Render / Vercel / Docker"]
+  Brief["Brief / problem"]
+  Proto["Working UI + API"]
+  AI["LLM / speech / ML"]
+  Deploy["Render / Vercel / Docker"]
 
-  Idea --> Proto --> AI --> Ship
+  Brief --> Proto --> AI --> Deploy
 ```
 
-## Currently interested in
+## Skills I use a lot
+
+`Python` `FastAPI` `React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Docker` `Whisper` `LLM APIs` `RAG` `Solidity` `PyTorch`
+
+## Open to
 
 - Agentic assistants for fintech and retail
-- Voice in / voice out UX that stays reliable
-- Clean APIs and readable architecture docs
+- Voice in / voice out products that stay reliable under load
+- Clean APIs and architecture that other engineers can read quickly
 
-Thanks for stopping by. If something here is useful for a collaboration, open an issue on the relevant repo or email me.
+If something here is useful for a collaboration, open an issue on the relevant repo or email me.
